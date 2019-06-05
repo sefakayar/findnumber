@@ -1,0 +1,19 @@
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\bin\Debug\Sayıbulma.exe.config
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\bin\Debug\Sayıbulma.exe
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\bin\Debug\Sayıbulma.pdb
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.csprojResolveAssemblyReference.cache
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.Form1.resources
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.Properties.Resources.resources
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.csproj.GenerateResource.Cache
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.exe
+C:\Users\Pau\Desktop\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.pdb
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\bin\Debug\Sayıbulma.exe.config
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\bin\Debug\Sayıbulma.exe
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\bin\Debug\Sayıbulma.pdb
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.Form1.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.exe
+C:\Users\Sefa\Desktop\Yazılım Progamları\C#\Sayıbulma\Sayıbulma\obj\Debug\Sayıbulma.pdb
